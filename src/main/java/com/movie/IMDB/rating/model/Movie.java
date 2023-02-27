@@ -1,4 +1,5 @@
-package com.movie.IMDB.rating;
+//This Class is Movie Entity
+package com.movie.IMDB.rating.model;
 
 
 import jakarta.persistence.Entity;
